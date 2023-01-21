@@ -35,10 +35,10 @@
 
 <h3 align="left">Social Media & Ways of communication:</h3>
 <p>
- <a href=""><img src="./icons/GitHub.svg" alt="GitHub" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
- <a href=""><img src="./icons/Gmail.svg" alt="Gmail" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
- <a href=""><img src="./icons/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
- <a href=""><img src="./icons/Telegram.svg" alt="Telegram" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
- <a href=""><img src="./icons/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
-  <a href=""><img src="./icons/Instagram.svg" alt="Instagram" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
+ <a href=""><img src="./icons/Github.svg" alt="GitHub" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href=""><img src="./icons/Gmail.svg" alt="Gmail" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href=""><img src="./icons/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href=""><img src="./icons/Telegram.svg" alt="Telegram" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href=""><img src="./icons/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href=""><img src="./icons/Instagram.svg" alt="Instagram" width="40" height="40"/></a> 
  </p>
