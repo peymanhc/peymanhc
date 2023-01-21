@@ -2,6 +2,7 @@
 
 [![MasterHead](https://avatars.githubusercontent.com/u/47552585?v=4)](https://github.com/peymanhc)
 
+<img alt="Peymanhc" width="400" src="https://avatars.githubusercontent.com/u/47552585?v=4">
 <!--
 **peymanhc/peymanhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
