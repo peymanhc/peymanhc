@@ -1,5 +1,10 @@
 ## <p align="center">Hi👋 Peyman Hadavi</p>
 
+<p align="center">FrontEnd Developer</p>
+ <img src="./icons/simple.gif" alt="react" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp;
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <img src="./icons/react.png" alt="react" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -25,17 +30,14 @@
  <img src="./icons/charts.png" alt="charts" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
 </p>
 
-<!--
-**peymanhc/peymanhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<h3 align="left">Social Media & Ways of communication:</h3>
+<p>
+ <a href=""><img src="./icons/GitHub.svg" alt="GitHub" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
+ <a href=""><img src="./icons/Gmail.svg" alt="Gmail" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
+ <a href=""><img src="./icons/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
+ <a href=""><img src="./icons/Telegram.svg" alt="Telegram" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
+ <a href=""><img src="./icons/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
+  <a href=""><img src="./icons/Instagram.svg" alt="Instagram" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;</a> 
+ </p>
