@@ -1,7 +1,8 @@
 ## <p align="center">Hi👋 Peyman Hadavi</p>
 
-<p align="center">FrontEnd Developer</p>
- <img src="./icons/simple.gif" alt="react" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp;
+## <p align="center">FrontEnd Developer</p>
+
+ <img src="./icons/simple.gif" alt="react" width="100%"/>
 
 ---
 
