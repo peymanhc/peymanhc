@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img alt="Peymanhc" style="width:300px;height:300px;border-radius:50%;margin:auto" src="https://avatars.githubusercontent.com/u/47552585?v=4">
+## <p align="center">Hi👋 Peyman Hadavi</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
