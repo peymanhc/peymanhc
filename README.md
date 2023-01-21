@@ -46,4 +46,4 @@
 
 ---
 
- <img src="./icons/profile.svg" alt="react" width="100%"/>
+ <img src="./profile.svg" alt="contributions" width="100%"/>
