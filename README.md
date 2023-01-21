@@ -39,7 +39,7 @@
  <a href="https://peymanhc@gmail.com"><img src="./icons/Gmail.svg" alt="Gmail" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://www.linkedin.com
 /in/peyman-hadavib79492207"><img src="./icons/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href=""><img src="./icons/Telegram.svg" alt="Telegram" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href="#"><img src="./icons/Telegram.svg" alt="Telegram" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://wa.me/+989219095536"><img src="./icons/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="#"><img src="./icons/Instagram.svg" alt="Instagram" width="40" height="40"/></a> 
  </p>
