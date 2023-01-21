@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <div width="40" ><img style="margin:16px" src="./icons/react.png" alt="react" width="40" height="40"/><p align="center">react</p></div>
+ <div style="width:40px" ><img style="margin:16px" src="./icons/react.png" alt="react" width="40" height="40"/><p align="center">react</p></div>
  <img style="margin:16px" src="./icons/Ts.png" alt="Ts" width="40" height="40"/>
  <img style="margin:16px" src="./icons/Js.png" alt="Js" width="40" height="40"/>
  <img style="margin:16px" src="./icons/Es6.png" alt="Es6" width="40" height="40"/>
