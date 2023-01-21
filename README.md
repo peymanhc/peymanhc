@@ -43,3 +43,7 @@
  <a href="https://wa.me/+989219095536"><img src="./icons/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="#"><img src="./icons/Instagram.svg" alt="Instagram" width="40" height="40"/></a> 
  </p>
+
+---
+
+ <img src="./icons/profile.svg" alt="react" width="100%"/>
