@@ -25,10 +25,18 @@
  <img src="./icons/Sitemap.png" alt="Sitemap" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/Webpack.png" alt="Webpack" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/Sass.png" alt="Sass" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/tailwind.png" alt="tailwind" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/Cypress.png" alt="Cypress" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/Chrome-Extension.png" alt="Chrome-Extension" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/formik.png" alt="formik" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/charts.png" alt="charts" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/StoryBook.png" alt="StoryBook" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/postman.png" alt="postman" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/jira.png" alt="jira" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/responsive.png" alt="responsive" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/webSocket.png" alt="webSocket" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/lightHouseGoogle.png" alt="lightHouseGoogle" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+ <img src="./icons/restful.png" alt="restfulApi" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
 </p>
 
 ---
