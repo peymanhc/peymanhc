@@ -37,6 +37,9 @@
  <img src="./icons/webSocket.png" alt="webSocket" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/lightHouseGoogle.png" alt="lightHouseGoogle" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="./icons/restful.png" alt="restfulApi" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="./icons/expressjs.png" alt="expressjs" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="./icons/pugjs.png" alt="pugjs" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+
 </p>
 
 ---
