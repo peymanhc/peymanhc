@@ -56,5 +56,3 @@
  </p>
 
 ---
-
- <img src="./profile.svg" alt="contributions" width="100%"/>
