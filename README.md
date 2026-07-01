@@ -1,58 +1,53 @@
-## <p align="center">Hi👋 Peyman Hadavi</p>
+<h1 align="center">Hi 👋, I'm Peyman Hadavi</h1>
+<h3 align="center">Senior Front-End Engineer | React & Next.js Specialist</h3>
 
-## <p align="center">FrontEnd Developer</p>
-
- <img src="./icons/simple.gif" alt="react" width="100%"/>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <img src="./icons/react.png" alt="react" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="./icons/Ts.png" alt="Ts" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
- <img src="./icons/Js.png" alt="Js" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
- <img src="./icons/Es6.png" alt="Es6" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
- <img src="./icons/NextJs.png" alt="NextJs" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Redux.png" alt="Redux" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/ReactQuery.png" alt="ReactQuery" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Pwa.png" alt="Pwa" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Mui.png" alt="Mui" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/StComponent.png" alt="style-components" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/antd.png" alt="antd" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/BootStrap.png" alt="BootStrap" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/googleMap.png" alt="googleMap" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/React-intl.png" alt="React-intl" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Sitemap.png" alt="Sitemap" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Webpack.png" alt="Webpack" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Sass.png" alt="Sass" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/tailwind.png" alt="tailwind" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Cypress.png" alt="Cypress" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/Chrome-Extension.png" alt="Chrome-Extension" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/formik.png" alt="formik" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/charts.png" alt="charts" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/StoryBook.png" alt="StoryBook" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/postman.png" alt="postman" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/jira.png" alt="jira" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/responsive.png" alt="responsive" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/webSocket.png" alt="webSocket" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/lightHouseGoogle.png" alt="lightHouseGoogle" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="./icons/restful.png" alt="restfulApi" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
-  <img src="./icons/expressjs.png" alt="expressjs" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
-  <img src="./icons/pugjs.png" alt="pugjs" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/peyman-hadavib79492207">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:peymanhc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/989219095536">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Social Media & Ways of communication:</h3>
-<p>
- <a href="https://github.com/peymanhc"><img src="./icons/Github.svg" alt="GitHub" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="https://peymanhc@gmail.com"><img src="./icons/Gmail.svg" alt="Gmail" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="https://www.linkedin.com
-/in/peyman-hadavib79492207"><img src="./icons/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="#"><img src="./icons/Telegram.svg" alt="Telegram" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="https://wa.me/+989219095536"><img src="./icons/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="#"><img src="./icons/Instagram.svg" alt="Instagram" width="40" height="40"/></a> 
- </p>
+### 👨‍💻 About Me
+
+I am a highly skilled and dedicated **Senior JavaScript Developer** with over 8 years of experience specializing in high-performing **React and Next.js** applications. 
+
+- 🚀 Proven track record in transforming legacy systems, scalable architecture, and leading successful front-end teams.
+- ⚡ Focused on web performance and UX optimization (achieved a 30% reduction in load times and a 15% increase in user engagement in recent roles).
+- 💡 Passionate about continuous learning, mentoring developers, and delivering modern, user-centric solutions.
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,graphql,angular,django" alt="Languages and Frameworks" />
+</a>
+
+**Styling & UI Libraries:**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,mui,bootstrap,styledcomponents" alt="Styling" />
+</a>
+
+**Tools & Testing:**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cypress,webpack,git,postman,figma,express" alt="Tools" />
+</a>
 
 ---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peymanhc&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Peyman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peymanhc&theme=dracula&hide_border=true&background=0D1117" alt="Peyman's Streak" width="48%" />
+</p>
