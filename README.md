@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Peyman Hadavi</h1>
-<h3 align="center">Senior Front-End Engineer | React & Next.js Specialist</h3>
+<h3 align="center">Senior Front-End Engineer | Next.js & React.js Specialist</h3>
+
+<p align="center">
+  <em>Crafting scalable, high-performance web applications and leading front-end teams for over 8 years.</em>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/peyman-hadavib79492207">
@@ -11,43 +15,85 @@
   <a href="https://wa.me/989219095536">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+  <a href="https://github.com/peymanhc">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Who am I?
 
-I am a highly skilled and dedicated **Senior JavaScript Developer** with over 8 years of experience specializing in high-performing **React and Next.js** applications. 
+I am a dedicated **Senior JavaScript / React Developer** based in Iran, deeply passionate about modern web architecture, performance optimization, and user-centric design. Throughout my career, I've successfully transformed legacy systems, built real-time analytics platforms, and mentored growing development teams.
 
-- 🚀 Proven track record in transforming legacy systems, scalable architecture, and leading successful front-end teams.
-- ⚡ Focused on web performance and UX optimization (achieved a 30% reduction in load times and a 15% increase in user engagement in recent roles).
-- 💡 Passionate about continuous learning, mentoring developers, and delivering modern, user-centric solutions.
+- 🚀 **Currently Focusing On:** Advanced Next.js architectures, Web3/Blockchain integrations, and building scalable UI solutions.
+- 💡 **Key Achievements:** Reduced application load times by **30%**, increased user engagement by **15%**, and dropped production bugs by **40%** through automated testing.
+- 🤝 **Collaboration:** Experienced in working closely with backend engineers, blockchain developers, and design teams to deliver pixel-perfect, secure, and seamless applications.
 
-### 🛠️ Tech Stack & Tools
+---
 
-**Languages & Frameworks:**
+### 💼 Professional Highlights
+
+* **Front-End Lead @ Echozero** *(Remote)*
+    * Leading the frontend team to build high-performance interfaces using **Next.js & TypeScript**.
+    * Integrating smart contracts and designing real-time dashboards for crypto bot performance tracking.
+* **Front-End Developer @ Mediana**
+    * Spearheaded front-end development for high-traffic web applications, migrating legacy apps to a clean React-based stack.
+    * Improved UI/UX features resulting in a 15% increase in user engagement.
+* **React Developer @ Sahmeto**
+    * Integrated RESTful services (improving response times by 25%) and introduced automated testing.
+    * Refactored the Next.js codebase and significantly improved SEO & analytics tracking.
+
+---
+
+### 🛠️ Comprehensive Tech Stack
+
+**Core Languages & Frameworks**
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,graphql,angular,django" alt="Languages and Frameworks" />
 </a>
 
-**Styling & UI Libraries:**
+**Styling & UI Components**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,mui,bootstrap,styledcomponents" alt="Styling" />
+  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,mui,bootstrap,styledcomponents" alt="Styling" />
 </a>
 
-**Tools & Testing:**
+**Architecture, State & Data Fetching**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cypress,webpack,git,postman,figma,express" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=redux,apollo,nodejs,express" alt="Architecture" />
 </a>
+<br>
+*(RESTful APIs, WebSockets, React Query, GQL)*
+
+**Testing, Tooling & Workflow**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cypress,jest,webpack,git,postman,figma,jira" alt="Tools" />
+</a>
+<br>
+*(Chrome Extensions, PWA, SEO Optimization, Lighthouse)*
 
 ---
 
-### 📈 GitHub Analytics
+### 🏆 GitHub Trophies & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peymanhc&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Peyman's GitHub Stats" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=peymanhc&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Peyman's Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peymanhc&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Peyman's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peymanhc&theme=dracula&hide_border=true&background=0D1117" alt="Peyman's Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymanhc&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</p>
+
+---
+<p align="center">
+  <i>"Writing code that is easily readable, highly performant, and scalable."</i>
 </p>
