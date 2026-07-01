@@ -30,22 +30,6 @@ I am a dedicated **Senior JavaScript / React Developer** based in Iran, deeply p
 - 💡 **Key Achievements:** Reduced application load times by **30%**, increased user engagement by **15%**, and dropped production bugs by **40%** through automated testing.
 - 🤝 **Collaboration:** Experienced in working closely with backend engineers, blockchain developers, and design teams to deliver pixel-perfect, secure, and seamless applications.
 
----
-
-### 💼 Professional Highlights
-
-* **Front-End Lead @ Echozero** *(Remote)*
-    * Leading the frontend team to build high-performance interfaces using **Next.js & TypeScript**.
-    * Integrating smart contracts and designing real-time dashboards for crypto bot performance tracking.
-* **Front-End Developer @ Mediana**
-    * Spearheaded front-end development for high-traffic web applications, migrating legacy apps to a clean React-based stack.
-    * Improved UI/UX features resulting in a 15% increase in user engagement.
-* **React Developer @ Sahmeto**
-    * Integrated RESTful services (improving response times by 25%) and introduced automated testing.
-    * Refactored the Next.js codebase and significantly improved SEO & analytics tracking.
-
----
-
 ### 🛠️ Comprehensive Tech Stack
 
 **Core Languages & Frameworks**
